@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>血管帅哥</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-09T02:23:51.369Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>血管哥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>misc--如何在图片中找flag(入门)</title>
+    <link href="http://example.com/2021/10/09/misc-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9B%BE%E7%89%87%E4%B8%AD%E6%89%BEflag-%E5%85%A5%E9%97%A8%E9%9A%BE%E5%BA%A6/"/>
+    <id>http://example.com/2021/10/09/misc-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9B%BE%E7%89%87%E4%B8%AD%E6%89%BEflag-%E5%85%A5%E9%97%A8%E9%9A%BE%E5%BA%A6/</id>
+    <published>2021-10-09T02:21:48.000Z</published>
+    <updated>2021-10-09T02:23:51.369Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;   以攻防世界里misc新手区的第二题为例，当出题人给你一张图时，可以试着点击朗读页面内容&lt;/p&gt;
+&lt;p&gt;​     ! &lt;a href=&quot;img/1.png&quot;&gt;1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;  </summary>
+        
+      
+    
+    
+    
+    <category term="misc学习" scheme="http://example.com/categories/misc%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/09/21/hello-world/"/>
+    <id>http://example.com/2021/09/21/hello-world/</id>
+    <published>2021-09-21T08:12:04.594Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
